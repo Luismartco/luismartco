@@ -7,6 +7,8 @@ Mi nombre es Luis Gabriel Martínez Contreras. Actualmente me encuentro finaliza
 Fuera del ámbito académico, soy un músico apasionado. En mi tiempo libre, me dedico a mejorar y aprender nuevas tecnologías, con el objetivo de mantenerme actualizado y ser un profesional más completo.
 
 Estoy emocionado por las oportunidades que se presenten en mi camino y espero poder aportar mis conocimientos y habilidades a futuros proyectos. ¡Será un placer conectar contigo!</p>
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">
 <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white">
@@ -24,6 +26,8 @@ Estoy emocionado por las oportunidades que se presenten en mi camino y espero po
 <ima src="https://img.shields.io/badge/Brave-FF1B2D?style=for-the-badge&logo=Brave&logoColor=white">
 <ima src="https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white">
 <ima src="https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white">
+</div>
+
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
