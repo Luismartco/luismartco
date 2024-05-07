@@ -46,8 +46,6 @@ Estoy emocionado por las oportunidades que se presenten en mi camino y espero po
 
 - 🌱 En proceso de mejora continua del idioma inglés.</a>
 
-- 🎼 Músico melódico.</a>
-
 - 📫 Puedes contactarme a travez de **luis.martinezco@cecar.edu.co**</a>
 
 - 📍 Sucre - Colombia
