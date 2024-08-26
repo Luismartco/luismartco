@@ -10,7 +10,7 @@ Estoy emocionado por las oportunidades que se presenten en mi camino y espero po
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,notion,visualstudio,vscode,windows,mint"/>
+    <img src="https://skillicons.dev/icons?i=github,git,notion,visualstudio,vscode,windows,mint"/><br>
 <img src="https://skillicons.dev/icons?i=py,tailwind,js,figma,laravel,mysql,postman"/>
   </a>
 </p>
