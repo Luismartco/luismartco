@@ -8,9 +8,8 @@
 ## Skills:
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=github,git,anaconda,bash"/><br>
+<img src="https://skillicons.dev/icons?i=github,git,bash"/><br>
 <img src="https://skillicons.dev/icons?i=py,js,php"/><br>
-<img src="https://skillicons.dev/icons?i=flask,django,tailwind,laravel,postman"/>
   </a>
 </p>
 
