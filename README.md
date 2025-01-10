@@ -6,15 +6,14 @@
 <p>I am excited about the opportunities that come my way and look forward to bringing my knowledge and skills to future projects. I look forward to connecting with you!</p>
 
 ## Skills:
-<h3></h3>
 <h3>Development tools</h3>
-<img src="https://skillicons.dev/icons?i=github,git,bash,figma,vscode"/><br>
+<img src="https://skillicons.dev/icons?i=github,git,bash,figma,vscode"/>
 <h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=py,js,php,mysql,sqlite"/><br>
+<img src="https://skillicons.dev/icons?i=py,js,php,mysql,sqlite"/>
 <h3>Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=laravel,react,flask,tailwind"/><br>
+<img src="https://skillicons.dev/icons?i=laravel,react,flask,tailwind"/>
 <h3>Operating systems</h3>
-<img src="https://skillicons.dev/icons?i=windows,mint"/><br>  
+<img src="https://skillicons.dev/icons?i=windows,mint"/>
 
 
 ## Languages
