@@ -9,9 +9,9 @@
 <h3>Development tools</h3>
 <img src="https://skillicons.dev/icons?i=github,git,bash,figma,vscode"/>
 <h3>Languages</h3>
-<img src="https://skillicons.dev/icons?i=py,js,php,mysql,sqlite"/>
+<img src="https://skillicons.dev/icons?i=py,js,php,mysql"/>
 <h3>Frameworks</h3>
-<img src="https://skillicons.dev/icons?i=laravel,react,flask,tailwind"/>
+<img src="https://skillicons.dev/icons?i=laravel,react,vue,flask,tailwind"/>
 <h3>Operating systems</h3>
 <img src="https://skillicons.dev/icons?i=windows,mint"/>
 
