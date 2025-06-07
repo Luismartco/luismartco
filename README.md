@@ -18,7 +18,7 @@
 
 ## Languages
 - Spanish (Native)
-- English (B2)
+- English (B1)
 - Portuguese (Coming soon...)
 
 ## GitHub Stats
